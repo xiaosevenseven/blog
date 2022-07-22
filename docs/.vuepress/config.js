@@ -1,5 +1,5 @@
 module.exports = {
-  base: "/",
+  base: "/blog/",
   markdown: {
     lineNumbers: true, // 显示行号
     externalLinks: {

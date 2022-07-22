@@ -1,3 +1,1 @@
 # React
-
- <Vssue :title="$title" />

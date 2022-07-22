@@ -1,3 +1,2 @@
 # Node
 
-<Vssue :title="$title" />

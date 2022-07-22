@@ -1,3 +1,4 @@
 # Vue
 
-<Vssue :title="$title" />
+
+
